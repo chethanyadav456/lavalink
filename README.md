@@ -82,4 +82,4 @@ new ExampleBot()
     .login('token')
     .catch(console.error);
 ```
-Example bot [here](https://github.com/KagChi/noteblock)
+Example bot [here](https://github.com/brblacky/lavamusic)
