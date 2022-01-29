@@ -1,7 +1,7 @@
 # lavalink-repl
 Lavalink on replit
 <br>
-<a href="https://replit.com/github/kagchi/lavalink-repl"><img src="https://img.shields.io/badge/REPL-FORK-green"></a>
+<a href="https://replit.com/github/chethanyadav456/lavalink-repl"><img src="https://img.shields.io/badge/REPL-FORK-green"></a>
 ## Connecting
 - [x] Lavalink's port will always 443 
 - [x] Default password `youshallnotpass`
@@ -18,7 +18,7 @@ Lavalink on replit
 - [x] Easy setup
 - [x] Using Dev build
 ## Glitch
-- for glitch user here [Repo](https://github.com/KagChi/lavalink-glitch)
+- for glitch user here [Repo](https://github.com/chethanyadav456/lavalink-glitch)
 
 ## Example
 - [x] Latest Shoukaku (v1.6.x)
