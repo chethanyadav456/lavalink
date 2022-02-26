@@ -1,6 +1,8 @@
 # lavalink-repl
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flavalink.us%2Fwp-content%2Fuploads%2F2017%2F07%2Fg4638-1.png&f=1&nofb=1
 Lavalink on replit
 <br>
+<a href="https://github.com/chethanyadav456/lavalink/releases/download/1.0.1/lavalink.zip"><img src="![Lavalink-server on Rdp](https://user-images.githubusercontent.com/46392684/155861877-2cc5bc0e-1074-4f3f-948e-eb7d2be936b7.png)"></a>
 <a href="https://replit.com/github/chethanyadav456/lavalink-repl"><img src="https://img.shields.io/badge/REPL-FORK-green"></a>
 ## Connecting
 - [x] Lavalink's port will always 443 
