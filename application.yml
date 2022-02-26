@@ -3,14 +3,13 @@ server: # REST and WS server
   address: 0.0.0.0
 lavalink:
   server:
-    password: "youshallnotpass"
+    password: "Apexop"
     sources:
       youtube: true
       bandcamp: true
       soundcloud: true
       twitch: true
       vimeo: true
-      mixer: true
       http: true
       local: false
     bufferDurationMs: 400 # The duration of the NAS buffer. Higher values fare better against longer GC pauses
@@ -29,7 +28,7 @@ lavalink:
 
 metrics:
   prometheus:
-    enabled: true
+    enabled: false
     endpoint: /metrics
 
 sentry:
