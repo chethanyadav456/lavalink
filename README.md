@@ -1,6 +1,7 @@
 # lavalink-repl
 Lavalink on replit
 <br>
+![APM](https://img.shields.io/apm/l/lavalink)
 <a href="https://replit.com/github/chethanyadav456/lavalink-repl"><img src="https://img.shields.io/badge/REPL-FORK-green"></a>
 ## Connecting
 - [x] Lavalink's port will always 443 
